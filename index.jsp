@@ -5,7 +5,7 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
-<%@include file="component/allCSS.jsp" %>
+<%@include file="allCSS.jsp" %>
 <style type="text/css">
 .back-img{
 background: url("img/back.jpg");
@@ -17,7 +17,7 @@ background-size:cover;
 }</style>
 </head>
 <body>
-<%@include file="component/NavBar.jsp" %>
+<%@include file="NavBar.jsp" %>
 
 <div class="container-fluid back-img text-center text-white"> <h1>Welcome To Phonebook App</h1>  </div>
 
