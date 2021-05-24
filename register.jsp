@@ -5,10 +5,10 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
-<%@include file="component/allCSS.jsp" %>
+<%@include file="allCSS.jsp" %>
 </head>
 <body>
-<%@include file="component/NavBar.jsp" %>
+<%@include file="NavBar.jsp" %>
 <div class="container-fluid">
 <div class="row">
 <div class="com-md-6 offset-md-4">
@@ -37,7 +37,7 @@
 </div>
 </div>
 </div>
-<%@include file="component/footer.jsp" %>
+<%@include file="footer.jsp" %>
 
 
 </body>
