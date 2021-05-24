@@ -5,10 +5,10 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
-<%@include file="component/allCSS.jsp" %>
+<%@include file="allCSS.jsp" %>
 </head>
 <body>
-<%@include file="component/NavBar.jsp" %>
+<%@include file="NavBar.jsp" %>
 
 </body>
 </html>
